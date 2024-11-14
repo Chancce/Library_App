@@ -1,0 +1,9 @@
+# Node modules (React)
+frontend/node_modules/
+
+# Python cache (Django)
+backend/library/__pycache__/
+backend/library/*.pyc
+
+# Environment variables
+*env
